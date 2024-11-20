@@ -7,7 +7,7 @@
     </a>
 </div>
 
-<img align="right" height="148" src="https://64.media.tumblr.com/ac1cae40469f39f21ea53294bf46f4e3/63333ee8bfe0e848-f5/s540x810/e3efc9315fcc0c4c6180afe0fc727123cfdb5ed9.gifv" alt="Gif animado"/>
+<img align="right" height="148" src="" alt="Gif animado"/>
 
 <h3>Estudando...</h3>
 <div style="display: inline-block;">
