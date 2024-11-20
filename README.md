@@ -5,9 +5,8 @@
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianadj901&layout=compact&langs_count=7&theme=dracula" alt="Top languages"/>
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marianadj901&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub stats"/>
     </a>
-</div>
-
-<img align="right" height="148" src="" alt="Gif animado"/>
+    
+<img align="right" height="148" src="https://github.com/marianadj901/marianadj901/blob/main/2AShYsw%20-%20Imgur.gif?raw=true" alt="Gif animado"/>
 
 <h3>Estudando...</h3>
 <div style="display: inline-block;">
