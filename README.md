@@ -1,4 +1,4 @@
-## Olá, eu sou a Mariana !
+<h2 align="left">Hi 👋! My name's Mariana</h2>
 
 <div>
     <a href="https://github.com/marianadj901">
