@@ -9,6 +9,7 @@
 <img align="right" height="148" src="https://github.com/marianadj901/marianadj901/blob/main/greenyo.gif?raw=true" alt="Gif animado"/>
 <img align="right" height="148" src="https://github.com/marianadj901/marianadj901/blob/main/ayaemitsuki.gif?raw=true" alt="Gif animado"/>
 <img align="right" height="148" src="https://github.com/marianadj901/marianadj901/blob/main/aya!.gif?raw=true" alt="Gif animado"/>
+<img align="right" height="148" src="https://github.com/marianadj901/marianadj901/blob/main/yeah.gif?raw=true" alt="Gif animado"/>
 
 <h3>Estudando...</h3>
 <div style="display: inline-block;">
