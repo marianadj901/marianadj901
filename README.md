@@ -1,10 +1,9 @@
 <h2 style="text-align: left;">Hi 👋! My name's Mariana</h2>
 
 <div>
-    <a href="https://github.com/marianadj901">
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianadj901&layout=compact&langs_count=7&theme=dracula" alt="Top languages"/>
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marianadj901&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub stats"/>
-    </a>
+
     
 <img align="right" height="148" src="https://github.com/marianadj901/marianadj901/blob/main/greenyo.gif?raw=true" alt="Gif animado"/>
 <img align="right" height="148" src="https://github.com/marianadj901/marianadj901/blob/main/ayaemitsuki.gif?raw=true" alt="Gif animado"/>
